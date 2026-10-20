@@ -1,6 +1,6 @@
-# Genuine Vehicles
+#  Vehicles
 
-Website for Genuine Vehicles car and bike dealership.
+Website for Vehicles car and bike dealership.
 
 ## Features
 - **Vehicle Catalog**: Fast, responsive showcase for cars, bikes, and SUVs.
